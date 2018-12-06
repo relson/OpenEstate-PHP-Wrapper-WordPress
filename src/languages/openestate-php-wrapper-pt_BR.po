@@ -1,0 +1,212 @@
+# Translation of the WordPress plugin OpenEstate-PHP Wrapper by OpenEstate.org.
+#
+# This file is distributed under the same license as the package.
+# OpenEstate.org <info@openestate.org>, 2010-2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenEstate PHP-Wrapper\n"
+"Report-Msgid-Bugs-To: info@openestate.org\n"
+"POT-Creation-Date: 2018-10-28 18:06+0100\n"
+"PO-Revision-Date: 2018-12-06 14:29-0200\n"
+"Last-Translator: Sebastião Relson <relsonto@gmail.com>\n"
+"Language-Team: OpenEstate.org <info@openestate.org>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: openestate-php-wrapper.php:75
+msgid "Please enter a valid script path."
+msgstr "Por favor, informe um caminho de script válido."
+
+#: openestate-php-wrapper.php:84
+msgid "The file was not found in the script path."
+msgstr "Arquivo não encontrado do caminho do script."
+
+#: openestate-php-wrapper.php:97
+msgid "Can't detect the script version."
+msgstr "Não foi possível detectar a versão do script."
+
+#: openestate-php-wrapper.php:223
+msgid "You're not authorized to setup this plugin."
+msgstr "Você não tem permissão para configurar esse plugin."
+
+#: openestate-php-wrapper.php:271
+msgid "Can't find translation."
+msgstr "Tradução não pode ser encontrada."
+
+#: openestate-php-wrapper.php:280
+msgid "Module"
+msgstr "Modulo"
+
+#: openestate-php-wrapper.php:283 openestate-php-wrapper.php:325
+msgid "version"
+msgstr "versão"
+
+#: openestate-php-wrapper.php:285
+msgid "License"
+msgstr "Licença"
+
+#: openestate-php-wrapper.php:290
+msgid "Authors"
+msgstr "Autores"
+
+#: openestate-php-wrapper.php:298
+msgid "Support us!"
+msgstr "Ajude-nos!"
+
+#: openestate-php-wrapper.php:313
+msgid "Configure exported scripts"
+msgstr "Configurar script Exportado"
+
+#: openestate-php-wrapper.php:323
+msgid "The exported scripts are correctly configured."
+msgstr "O script exportado está configurado corretamente."
+
+#: openestate-php-wrapper.php:329 openestate-php-wrapper.php:706
+msgid "The exported scripts are NOT correctly configured."
+msgstr "O script exportado NÃO está corretamente configurado."
+
+#: openestate-php-wrapper.php:331
+msgid "Export your properties from ImmoTool to your website via PHP."
+msgstr "Exporte os seus imóveis do ImmoTool para o seu Website via PHP."
+
+#: openestate-php-wrapper.php:332
+msgid ""
+"Configure path and URL, that points to the exported scripts, and click "
+"'Save' to perform a new validation."
+msgstr ""
+"Configure o caminho e URL desses pontos para os scripts exportados e clique "
+"em 'Salvar' para executar uma nova validação."
+
+#: openestate-php-wrapper.php:334
+msgid "Error messages"
+msgstr "Mensagens de erro"
+
+#: openestate-php-wrapper.php:346
+msgid "Script path"
+msgstr "Caminho do Script"
+
+#: openestate-php-wrapper.php:350
+msgid ""
+"Enter the path on your server, that points to the exported scripts. The path "
+"of this CMS installation is:"
+msgstr ""
+"Informe o caminho no seu servidor para os pontos do script exportado. O "
+"caminho do seu servidor da Instalação do WordPress é:"
+
+#: openestate-php-wrapper.php:356
+msgid "Script URL"
+msgstr "URL do Script"
+
+#: openestate-php-wrapper.php:361
+msgid ""
+"Enter the URL on your server, that points to the exported scripts. The URL "
+"of this CMS installation is:"
+msgstr ""
+"Informe a URL no seu servidor desses pontos do script exportado. A URL da "
+"Instalação do WordPress é:"
+
+#: openestate-php-wrapper.php:368
+msgid "Save"
+msgstr "Salvar"
+
+#: openestate-php-wrapper.php:454
+msgid "Configure generated view"
+msgstr "Configura visão gerada"
+
+#: openestate-php-wrapper.php:455
+msgid ""
+"Use the following form to generate a shortcode, that can be inserted into "
+"any article or page of your WordPress blog."
+msgstr ""
+"Use o formulário seguinte para gerar um shortcode, isso pode ser inserido em "
+"qualquer Postagem ou página do seu blog WorldPress."
+
+#: openestate-php-wrapper.php:463
+msgid "Property listing / index.php"
+msgstr "Listagem de Imóveis/ index.php"
+
+#: openestate-php-wrapper.php:470 openestate-php-wrapper.php:610
+msgid "View"
+msgstr "Ver"
+
+#: openestate-php-wrapper.php:474
+msgid "Summary"
+msgstr "Sumário"
+
+#: openestate-php-wrapper.php:475
+msgid "Favourites"
+msgstr "Favoritos"
+
+#: openestate-php-wrapper.php:482
+msgid "Mode"
+msgstr "Modo"
+
+#: openestate-php-wrapper.php:486
+msgid "Tabular mode"
+msgstr "Modo tabela"
+
+#: openestate-php-wrapper.php:487
+msgid "Gallery mode"
+msgstr "Modo Galeria"
+
+#: openestate-php-wrapper.php:494 openestate-php-wrapper.php:624
+msgid "Language"
+msgstr "Linguagem"
+
+#: openestate-php-wrapper.php:512
+msgid "Order"
+msgstr "Ordem"
+
+#: openestate-php-wrapper.php:548
+msgid "ascending"
+msgstr "crescente"
+
+#: openestate-php-wrapper.php:549
+msgid "descending"
+msgstr "decrescente"
+
+#: openestate-php-wrapper.php:575
+msgid "Filter"
+msgstr "Filtro"
+
+#: openestate-php-wrapper.php:594
+msgid "Property details / expose.php"
+msgstr "Detalhes do imóvel / expose.php"
+
+#: openestate-php-wrapper.php:601
+msgid "Property ID"
+msgstr "ID do Imóvel"
+
+#: openestate-php-wrapper.php:614
+msgid "Details"
+msgstr "Detalhes"
+
+#: openestate-php-wrapper.php:615
+msgid "Description"
+msgstr "Descrição"
+
+#: openestate-php-wrapper.php:616
+msgid "Gallery"
+msgstr "Galeria"
+
+#: openestate-php-wrapper.php:617
+msgid "Contact"
+msgstr "Contato"
+
+#: openestate-php-wrapper.php:618
+msgid "Terms"
+msgstr "Termos"
+
+#: openestate-php-wrapper.php:732
+msgid "The properties are currently updated."
+msgstr "Os imóveis estão atualizados."
+
+#: openestate-php-wrapper.php:733
+msgid "Please revisit this page after some minutes."
+msgstr "Por favor visite novamente a página em alguns minutos."
